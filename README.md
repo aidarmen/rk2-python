@@ -1,2 +1,4 @@
 # rk2-python
-doing project
+ Dataset taken from here https://www.kaggle.com/c/quickdraw-doodle-recognition/overview
+ 
+ 
