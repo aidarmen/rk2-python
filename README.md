@@ -1,7 +1,8 @@
 # rk2-python
  
  
- The project will be divided in 3 sprints
+The project will be divided in 3 sprints
+
 1st sprint (≈19.04-23.04):
 Collecting the Dataset
 In order to train our machine, we need a huge amount of data so that our model can learn from them by identifying out certain relations and common features related to the objects.
